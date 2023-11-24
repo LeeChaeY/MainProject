@@ -1,8 +1,8 @@
 package z.testPJT.product;
 
-public class B {
+public class A {
 
-	public B() {
+	public A() {
 		// TODO Auto-generated constructor stub
 	}
 
