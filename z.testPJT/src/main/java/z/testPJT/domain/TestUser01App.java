@@ -7,6 +7,7 @@ public class TestUser01App {
 		System.out.println("User01 수정 2트");
 		System.out.println("User01 수정 3트");
 		System.out.println("User01 수정 4트");
+		System.out.println("User01 수정 5트");
 	}
 
 }
